@@ -1,0 +1,2 @@
+# T-stuff
+training oriented
